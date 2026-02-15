@@ -1,0 +1,20 @@
+{
+    "app_title": "Code Comparator",
+    "theme_dark": "Modo Oscuro",
+    "theme_light": "Modo Claro",
+    "compare": "Comparar",
+    "clear": "Limpiar",
+    "original": "Texto Original",
+    "modified": "Texto Modificado",
+    "diff_result": "Resultados de Diferencias",
+    "no_diff": "No hay diferencias",
+    "stats": "Estadísticas",
+    "lines_added": "Líneas Agregadas",
+    "lines_removed": "Líneas Eliminadas",
+    "options": "Opciones",
+    "ignore_whitespace": "Ignorar Espacios",
+    "ignore_case": "Ignorar Mayúsculas",
+    "wrap_lines": "Ajustar Líneas",
+    "merge_left": "Fusionar ←",
+    "merge_right": "Fusionar →"
+}
